@@ -2,7 +2,7 @@
 [Creative Commons Zero v1.0 Universal](https://github.com/justcerise/thatcerise-s-models/blob/main/LICENSE)
 
 
-The assets that are held within this repository are made using [Blockbench](https://www.blockbench.net) and made by [justcerise](https://twitter.com/just_cerise).
+The assets that are held within this repository are made using [Blockbench](https://www.blockbench.net) and made by [@just_cerise](https://twitter.com/just_cerise) on twitter.
 These models are accessible under the Creative Commons Zero License.
 
 These models are made specifically for Java Edition, and use the java-block/item formatting on blockbench.
